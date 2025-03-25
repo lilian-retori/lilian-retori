@@ -1,8 +1,10 @@
 <h3> Cientista de Dados </h3>
-
-![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ##  Olá! 🙋🏻‍♀ Eu sou a Lilian Retori,
+
 
 - 🔭 Atualmente estudando **Python e Machine Learn**
 - 🌱 Migrando para a área de **Dados**
@@ -11,7 +13,8 @@
 - 😄 Ocasionalmente participo de **Hackathons**
 - ⚡ Linguagens: **Python3 ** -->
 
-###
+##
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
