@@ -11,7 +11,7 @@
 - 🤔 Estou procurando ajuda com Estruturas de Dados e Algoritmos 😭
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar
 - 😄 Ocasionalmente participo de **Hackathons**
-- ⚡ Linguagens: **Python3 ** -->
+- ⚡ Linguagens:  **Python3 ** -->
 
 ##
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
